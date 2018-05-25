@@ -1,0 +1,53 @@
+#boxYellow {
+    background-color: yellow;
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    top: 6rem;
+    left: 6rem;
+}
+
+#boxPurple {
+    background-color: purple;
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    top: 6rem;
+    left: 6rem;
+}
+
+#boxRed {
+    background-color: red;
+    width: 16rem;
+    height: 16rem;
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
+
+#boxBlue {
+    background-color: blue;
+    width: 16rem;
+    height: 16rem;
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+}
+
+#boxBlack {
+    background-color: black;
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+}
+
+#boxGreen {
+    background-color: green;
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    top: 24rem;
+    left: 6rem;
+}
